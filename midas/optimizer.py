@@ -10,7 +10,6 @@ import csv
 from midas.algorithms import genetic_algorithm as GA
 from midas.utils import optimizer_tools as optools
 from midas.applications import parcs332 as parcs
-#!from midas.applications import parcs_332
 
 
 ## Classes ##
